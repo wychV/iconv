@@ -1,3 +1,3 @@
-module pikachu-stubborn/test/iconv
+module wychV/iconv
 
 go 1.22.2
